@@ -223,7 +223,7 @@ def start(args):
     while True:
         if is_old_version:
             print(
-                f'{cl.RED}! ЗАПУЩЕННАЯ ПОСЛЕДНЯЯ ВЕРСИЯ{cl.RESET}: by RATY n')
+                f'{cl.RED}! ЗАПУЩЕННА CUSTOM ВЕРСИЯ{cl.RESET}: by RATY n')
 
         while True:
             targets = list(targets_iter)
