@@ -223,7 +223,7 @@ def start(args):
     while True:
         if is_old_version:
             print(
-                f'{cl.RED}! ЗАПУЩЕННАЯ НЕ ПОСЛЕДНЯЯ ВЕРСИЯ - ОБНОВИТЕСЬ{cl.RESET}: https://telegra.ph/Onovlennya-mhddos-proxy-04-16\n')
+                f'{cl.RED}! ЗАПУЩЕННАЯ ПОСЛЕДНЯЯ ВЕРСИЯ{cl.RESET}: by RATY n')
 
         while True:
             targets = list(targets_iter)
